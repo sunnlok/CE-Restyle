@@ -3001,3 +3001,8 @@ CObjectCreateToolPanel  QWidget > QToolButton:pressed
 {
 	background: rgb(0,151,251);
 }
+
+QCustomWindowFrame#mainWindow 
+{
+	margin: 0;
+}
